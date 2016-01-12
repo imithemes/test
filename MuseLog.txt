@@ -1,0 +1,23 @@
+Build 751: Fri Aug 30 08:17:32 2013 UTC: Error: CSI: OOBE: Serial Number: Error Code: O-10 Error Message: Unable to retrieve the serial number (Note: this may not be an error)
+Build 751: Fri Aug 30 08:17:32 2013 UTC: Error: CSI: OOBE: Serial Number: Error Code: O-10 Error Message: Unable to retrieve the serial number (Note: this may not be an error)
+Build 751: Fri Aug 30 08:17:34 2013 UTC: Error: CSI: OOBE: Serial Number: Error Code: O-10 Error Message: Unable to retrieve the serial number (Note: this may not be an error)
+Logging in build 2014.0.1.30 started at: Sat Sep  6 01:53:14 2014
+========================================
+[00:00:34.394] 00:00:00.000 | Quitting Application after 0.5 minutes. Called by: MethodInfo-5705+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+
+==========
+Logging ended at: Sat Sep  6 01:53:53 2014
+
+Logging in build 2014.2.1.10 started at: Thu Nov  6 00:17:45 2014
+========================================
+[00:06:20.725] Quitting Application after 6.2 minutes. Called by: MuseApp/quitAfterProcessesComplete+MethodInfo-6071+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+
+==========
+Logging ended at: Thu Nov  6 00:24:09 2014
+
+Logging in build 2014.2.1.10 started at: Mon Apr 27 00:41:48 2015
+========================================
+Logging in build 2014.2.1.10 started at: Thu May 28 19:57:22 2015
+========================================
+[00:00:06.412] Quitting Application after 0 minutes. Called by: MuseApp/quitAfterProcessesComplete+MethodInfo-6071+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+[00:00:06.535] MuseErrorManager:MuseError: Error #1009: Cannot access a property or method of a null object reference. [AS Stack: MuseApp/quit+MuseApp/quitAfterProcessesComplete+MethodInfo-6071+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI+end stack]
